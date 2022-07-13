@@ -27,7 +27,6 @@ let i = 0;
 async function buy() {
   try {
     console.log("starting up ...")
-    await sleep(10000);
     
     while (i == 0) {
       let response = await axios.get("https://wzrds.xyz/peddler/targets");
