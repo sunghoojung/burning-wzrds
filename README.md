@@ -4,3 +4,5 @@ The nft project Wzrds released a new mechanism which allowed stakers to burn lis
 https://wzrds.xyz/peddler 
 
 NOTE: after every time you submit a transaction you have to restart script. 
+
+Any issues please add me on discord sunny#7654 or follow me on twitter and ask me there @pogendpoint.
