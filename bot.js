@@ -6,7 +6,6 @@ const maxPrioFee = "";
 
 // put in info here i can't get the env file working :(
 
-require("dotenv").config();
 const axios = require("axios").default;
 const Web3 = require("web3");
 const web3 = new Web3(
