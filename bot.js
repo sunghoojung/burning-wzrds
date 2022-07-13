@@ -88,7 +88,6 @@ async function buy() {
         } else {
           console.log("prob oos");
         }
-        console.log(transaction);
       } else {
         console.log("no new listings to burn");
       }
